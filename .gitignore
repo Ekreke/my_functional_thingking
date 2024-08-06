@@ -1,0 +1,58 @@
+# IntelliJ IDEA相关内容
+.idea/
+*.iml
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+
+# Compiled source
+*.class
+*.war
+*.jar
+*.ear
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Linux specific files
+*~
